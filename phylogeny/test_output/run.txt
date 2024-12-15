@@ -1,0 +1,26 @@
+
+For 15taxa100gene100bpestR1:
+-i E:\Thesis\STELAR-master2\STELAR-master\Data-set\15-taxon\15-taxa\100gene-100bp\estimated-genetrees\R1.genetrees.tree -o E:\Thesis\STELAR-master2\STELAR-master\main\test_output\15taxa100gene100bpestR1.genetrees.tre 
+
+
+For single gene tree : 
+-i E:\Thesis\STELAR-master2\STELAR-master\main\test_data\single.tre -o E:\Thesis\STELAR-master2\STELAR-master\main\test_output\singleScored.tre
+(to run the same file for astral : -i E:\Thesis\STELAR-master2\STELAR-master\main\test_data\single.tre -t 4 -o E:\Thesis\STELAR-master2\STELAR-master\main\test_output\singleScored.tre)
+
+
+For song primates : 
+-i E:\Thesis\STELAR-master2\STELAR-master\main\test_data\song_primates.424.gene.tre -o E:\Thesis\STELAR-master2\STELAR-master\main\test_output\song_primates.424.geneScored.tre
+(to run the same file for astral : -i E:\Thesis\STELAR-master2\STELAR-master\main\test_data\song_primates.424.gene.tre -t 4 -o E:\Thesis\STELAR-master2\STELAR-master\main\test_output\song_primates.424.geneScored.tre)
+
+
+***takes time***
+for 15taxa1000gene-true-estimatedR6: 
+-i E:\Thesis\STELAR-master2\STELAR-master\Data-set\15-taxon\15-taxa\1000gene-true\estimated-genetrees\R6.genetrees.tree -o E:\Thesis\STELAR-master2\STELAR-master\main\test_output\15taxa1000gene_true_estimatedR6.tre 
+(to run the same file in astral : -i E:\Thesis\STELAR-master2\STELAR-master\Data-set\15-taxon\15-taxa\1000gene-true\estimated-genetrees\R6.genetrees.tree -t 4 -o E:\Thesis\STELAR-master2\STELAR-master\main\test_output\15taxa1000gene_true_estimatedR6.tre )
+
+
+(A,(B,(C,(D,(E,(F,(G,(H,(I,(J,((L,(M,(N,O):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]',K):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'):'[pp1=1;pp2=0;pp3=0]'));
+
+
+
+(A,(B,(C,(D,(E,(F,(G,(H,(I,(J,(K,(L,(M,(N,O)'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=1.0;pp2=0.0;pp3=0.0]')'[pp1=0.33333333333333337;pp2=0.33333333333333337;pp3=0.33333333333333337]';
